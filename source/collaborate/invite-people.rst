@@ -68,7 +68,14 @@ You can share a unique URL that takes users to a Mattermost account creation pag
   .. tab:: Web/Desktop
 
     1. Select the team name at the top of the channel sidebar, then select **Invite People**.
+
+      .. image:: ../images/invite-people-menu.png
+          :alt: Select invite people from the menu
+
     2. Select the **Copy Link** button to save the URL to your clipboard and share it with those you want to invite to the team.
+
+      .. image:: ../images/invite-copy-link.png
+          :alt: Click copy invite link button to copy it to the system clipboard
 
   .. tab:: Mobile
 
